@@ -12,6 +12,7 @@
     "@moralisweb3/common-evm-utils": "^2.18.0",
     "buffer": "^6.0.3",
     "crypto": "^1.0.1",
+    "ipfs": "^0.66.0",
     "moralis": "^2.18.0"
   }
 }
