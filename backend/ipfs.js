@@ -3,7 +3,7 @@ const { EvmApi } = require("@moralisweb3/common-evm-utils");
 
 const runApp = async () => {
   await Moralis.start({
-    apiKey: "C9Nk7zMAjQkPKRTTI52SwYlB0KEDH9GpomKtSjcR0zEJHRi7UV2MpfksV1oC2k13",
+    apiKey: "API_KEY",
     // ...and any other configuration
   });
 
