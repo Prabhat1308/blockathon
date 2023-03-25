@@ -3,7 +3,7 @@ const WEB3_STORAGE_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ
 const run = async () => {
   const cid = await uploadEncryptionIpfs(
     WEB3_STORAGE_API_KEY,
-    "./hi",
+    "./test_files",
     "password"
   );
   console.log(cid);
